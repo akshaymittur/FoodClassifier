@@ -6,7 +6,7 @@ In this project I built a food classifier to identify different dishes from food
 
 I was able to get the model to predict the dish with 95% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet50. This created time efficiencies and solid results. 
 
-![Confusion Matrix](https://ibb.co/CHmwjY9)
+![Confusion Matrix](https://github.com/akshaymittur/FoodClassifier/blob/master/results.png)
 
 ## Config
 I recommend using google colab for this project as it makes the gpu configuration far easier. In google colab make sure that you go to runtime -> change runtime type -> gpu. 
